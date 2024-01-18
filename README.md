@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ecommerce DNC
 
-Currently, two official plugins are available:
+Esse foi um projeto feito acompanhando as aulas de React.js do curso de tecnologia da escola DNC.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Aprendizados
+
+Foi um modulo com denso aprendizado sobre React.js, usamos o vite para criação da estrutura do projeto como uma opção mais otimizada do que o create-react-app.
+
+Trouxe conhecimentos como estrururação de pastas, criação de rotas, usamos os React Router para ajudar com isso, desestrururação, mock para simular um banco de dados, useParams para pegar informações do mock dinamicamente e mandar para os componentes na view.
+
+Realmente acrecentou muuuito e abriu um novo mundo de possibilidades.
+
+
+
